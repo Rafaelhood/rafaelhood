@@ -1,6 +1,6 @@
 ### Olá, Eu sou Rafael de Santana 👽
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://RafaelOp13.com)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RafaelOp13)
 
 ![Rafaelhood GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelhood&show_icons=true&theme=dracula)
 
